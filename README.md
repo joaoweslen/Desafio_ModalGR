@@ -1,4 +1,4 @@
-# <img alt="Simbolo Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Utilitários - Desafio ModalGR
+# <img alt="Simbolo Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Utilitários
 
 ### Este repositório contém dois scripts Python que oferecem funcionalidades úteis.
 
